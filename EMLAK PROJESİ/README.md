@@ -61,21 +61,3 @@ emlak-dunyasi/
 3. Giriş yaptıktan sonra ilan ekleyebilir, düzenleyebilir ve silebilirsiniz.
 4. İlanları favorilere ekleyebilir ve daha sonra görüntüleyebilirsiniz.
 5. Emlak haberlerini takip edebilirsiniz.
-
-## Katkıda Bulunma
-
-1. Bu depoyu fork edin
-2. Yeni bir özellik dalı oluşturun (`git checkout -b yeni-ozellik`)
-3. Değişikliklerinizi commit edin (`git commit -am 'Yeni özellik: Açıklama'`)
-4. Dalınıza push yapın (`git push origin yeni-ozellik`)
-5. Bir Pull Request oluşturun
-
-## Lisans
-
-Bu proje MIT lisansı altında lisanslanmıştır. Daha fazla bilgi için `LICENSE` dosyasına bakın.
-
-## İletişim
-
-Proje Sahibi - [@twitter_handle](https://twitter.com/twitter_handle)
-
-Proje Linki: [https://github.com/kullaniciadi/emlak-dunyasi](https://github.com/kullaniciadi/emlak-dunyasi) 
